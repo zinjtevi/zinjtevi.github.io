@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>BUNDLE_ID</string>
+				<string>app.ios.orai</string>
 				<key>bundle-version</key>
 				<string>4.0</string>
 				<key>kind</key>
@@ -25,7 +25,7 @@
 				<key>subtitle</key>
 				<string>41A472</string>
 				<key>title</key>
-				<string>NAME_OF_APP</string>
+				<string>Zinjtevi</string>
 			</dict>
 		</dict>
 	</array>
